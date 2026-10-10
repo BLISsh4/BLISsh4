@@ -1,29 +1,6 @@
-# Hey, I'm Bisan 👋
+# 💫 About Me:
+# Hey, I'm Bisan 👋<br><br>### Student • Aspiring Developer • Gamer<br><br>I'm Bisan Majhi, a student from Nepal passionate about technology, programming, gaming, and creativity. I enjoy learning new skills, exploring ideas, and turning them into something cool.<br><br>### About Me<br><br>- 💻 Learning programming and web development<br>- 🎮 Minecraft PvP and Roblox enthusiast<br>- 🌐 Working on my personal website<br>- 🎨 Interested in anime, calligraphy, and design<br>- 🚀 Always exploring new technologies and improving my skills<br><br>### Tech Stack<br><br>- **Languages:** HTML, CSS, JavaScript, Python<br>- **Tools:** VS Code, Git, GitHub<br>- **Interests:** Web Development, Game Development, AI<br><br>### Goals<br><br>- Build useful and creative projects<br>- Improve my coding skills every day<br>- Explore game development and AI<br>- Turn my ideas into reality<br><br>### Connect With Me<br><br>- 🌍 Website: [bisan.fun](https://bisan.fun)<br>- 📧 Email: hello@bisan.fun<br><br>---<br><br>*“Learn something new. Build something meaningful. Repeat.”*<br>
 
-### Student • Aspiring Developer • Gamer
 
-I'm Bisan Majhi, a student from Nepal passionate about technology, programming, gaming, and creativity. I enjoy learning new skills, exploring ideas, and turning them into something cool.
-
-### About Me
-
-- 💻 Learning programming and web development
-- 🎮 Minecraft PvP and Roblox enthusiast
-- 🌐 Working on my personal website
-- 🎨 Interested in anime, calligraphy, and design
-- 🚀 Always exploring new technologies and improving my skills
-
-### Tech Stack
-
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Tools:** VS Code, Git, GitHub
-- **Interests:** Web Development, Game Development, AI
-
- 
-### Connect With Me
-
-- 🌍 Website: [bisan.fun](https://bisan.fun)
-- 📧 Email: hello@bisan.fun
-
----
-
-*“"Quietly learning. Constantly improving. Building my own future."*
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/KtRwSQ8y5) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BLISsh_4) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_blissh4) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/BLISsh_4) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/BLISsh_4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hello@bisan.fun) 

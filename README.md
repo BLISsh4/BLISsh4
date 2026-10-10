@@ -26,4 +26,4 @@ I'm Bisan Majhi, a student from Nepal passionate about technology, programming, 
 
 ---
 
-*“Learn something new. Build something meaningful. Repeat.”*
+*“"Quietly learning. Constantly improving. Building my own future."*

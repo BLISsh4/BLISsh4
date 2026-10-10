@@ -18,13 +18,7 @@ I'm Bisan Majhi, a student from Nepal passionate about technology, programming, 
 - **Tools:** VS Code, Git, GitHub
 - **Interests:** Web Development, Game Development, AI
 
-### Goals
-
-- Build useful and creative projects
-- Improve my coding skills every day
-- Explore game development and AI
-- Turn my ideas into reality
-
+ 
 ### Connect With Me
 
 - 🌍 Website: [bisan.fun](https://bisan.fun)
